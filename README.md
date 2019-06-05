@@ -22,7 +22,7 @@ My class content includes:
 
 -Class 14: [**Transcriptomics and the analysis of RNA-Seq data**]()
 
--Class 15: [**Genome annotation and the interpretation of gene lists**]()
+-Class 15: [**Genome annotation and the interpretation of gene lists**](cLASS15_rmD.md)
 
 -Class 16: [**Essential UNIX for bioinformatics**]()
 
